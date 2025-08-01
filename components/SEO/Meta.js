@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
-            <meta charSet="utf-8" />
-            <meta name="title" content="Vivek Patel Portfolio - Computer Engineering Student" />
-            <meta name="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Vivek Patel (vivek9patel)" />
-            <meta name="keywords"
-                content="vivek9patel, vivek9patel's portfolio, vivek9patel linux, ubuntu portfolio, vivek patel protfolio,vivek patel computer, vivek patel, vivek ubuntu, vivek patel ubuntu portfolio" />
+                <title>Ahmed Shabib Portfolio - Computer Engineering Student</title>
+    <meta charSet="utf-8" />
+    <meta name="title" content="Ahmed Shabib Portfolio - Software Engineer" />
+    <meta name="description" 
+      content="Ahmed Shabib's (ahmedshabib) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+    <meta name="author" content="Ahmed Shabib (ahmedshabib)" />
+    <meta name="keywords" 
+      content="ahmedshabib, ahmedshabib's portfolio, ahmedshabib linux, ubuntu portfolio, ahmed shabib protfolio,ahmed shabib computer, ahmed shabib, ahmed ubuntu, ahmed shabib ubuntu portfolio" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -35,12 +35,12 @@ export default function Meta() {
             <meta name="twitter:creator" content="vivek9patel" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
-            <meta name="og:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://vivek9patel.github.io/" />
-            <meta name="og:site_name" content="Vivek Patel Personal Portfolio" />
+                <meta name="og:title" content="Ahmed Shabib Portfolio - Software Engineer" />
+    <meta name="og:description" 
+      content="Ahmed Shabib's (ahmedshabib) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+    <meta name="og:image" content="images/logos/logo_1200.png" />
+    <meta name="og:url" content="https://github.com/AhmedShabib02" />
+    <meta name="og:site_name" content="Ahmed Shabib Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
