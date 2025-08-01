@@ -87,7 +87,7 @@ export class AboutAhmed extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="vivek' education"
+            alt="ahmed' education"
             src="./themes/Yaru/status/education.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Education</span>
@@ -105,7 +105,7 @@ export class AboutAhmed extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="vivek' skills"
+            alt="ahmed' skills"
             src="./themes/Yaru/status/skills.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Skills</span>
@@ -123,7 +123,7 @@ export class AboutAhmed extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="vivek' projects"
+            alt="ahmed' projects"
             src="./themes/Yaru/status/projects.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Projects</span>
@@ -141,7 +141,7 @@ export class AboutAhmed extends Component {
         >
           <img
             className=" w-3 md:w-4"
-            alt="vivek's resume"
+            alt="ahmed's resume"
             src="./themes/Yaru/status/download.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Resume</span>
