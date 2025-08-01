@@ -2,12 +2,14 @@
   "name": "ahmedshabib-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://ahmedshabib.github.io/",
+  "homepage": "https://ahmedshabib02.github.io/portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export"
+    "export": "next export",
+    "predeploy": "yarn export",
+    "deploy": "gh-pages -d out"
   },
   "engines": {
     "node": ">=16.x"
@@ -16,6 +18,7 @@
     "@emailjs/browser": "^3.10.0",
     "autoprefixer": "^10.4.13",
     "expr-eval": "^2.0.2",
+    "gh-pages": "^6.3.0",
     "jquery": "^3.6.3",
     "next": "^13.1.2",
     "postcss": "^8.4.21",
