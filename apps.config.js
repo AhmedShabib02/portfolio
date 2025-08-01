@@ -101,16 +101,16 @@ const apps = [
         url: "https://github.com/AhmedShabib02",
         screen: () => {},
     },
-    {
-        id: "tars",
-        title: "Ask Tars",
-        icon: './themes/Yaru/apps/tars.svg',
-        disabled: false,
-        favourite: false,
-        desktop_shortcut: true,
-        isExternalApp: true,
-        url: "https://www.vivek9patel.com/tars"
-    },
+    // {
+    //     id: "tars",
+    //     title: "Ask Tars",
+    //     icon: './themes/Yaru/apps/tars.svg',
+    //     disabled: false,
+    //     favourite: false,
+    //     desktop_shortcut: true,
+    //     isExternalApp: true,
+    //     url: "https://www.vivek9patel.com/tars"
+    // },
 ]
 
 export default apps;
