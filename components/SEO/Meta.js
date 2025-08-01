@@ -22,17 +22,17 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta itemProp="name" content="Ahmed Shabib Portfolio - Software Engineer" />
             <meta itemProp="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Ahmed Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="twitter:title" content="Ahmed Shabib Portfolio - Software Engineer" />
             <meta name="twitter:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="twitter:site" content="vivek9patel" />
-            <meta name="twitter:creator" content="vivek9patel" />
+                content="Ahemd Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="twitter:site" content="ahmedshabib" />
+            <meta name="twitter:creator" content="ahmedshabib" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
                 <meta name="og:title" content="Ahmed Shabib Portfolio - Software Engineer" />
