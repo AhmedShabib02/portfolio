@@ -5,12 +5,12 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-                <title>Ahmed Shabib Portfolio - Computer Engineering Student</title>
+                <title>Ahmed Shabib Portfolio - Software Engineer</title>
     <meta charSet="utf-8" />
     <meta name="title" content="Ahmed Shabib Portfolio - Software Engineer" />
     <meta name="description" 
-      content="Ahmed Shabib's (ahmedshabib) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-    <meta name="author" content="Ahmed Shabib (ahmedshabib)" />
+      content="Ahmed Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+    <meta name="author" content="Ahmed Shabib" />
     <meta name="keywords" 
       content="ahmedshabib, ahmedshabib's portfolio, ahmedshabib linux, ubuntu portfolio, ahmed shabib protfolio,ahmed shabib computer, ahmed shabib, ahmed ubuntu, ahmed shabib ubuntu portfolio" />
             <meta name="robots" content="index, follow" />
