@@ -5,9 +5,9 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-                <title>Ahmed Shabib Portfolio - Software Engineer</title>
+                <title>Ahmed Shabib Portfolio - Full Stack Developer</title>
     <meta charSet="utf-8" />
-    <meta name="title" content="Ahmed Shabib Portfolio - Software Engineer" />
+    <meta name="title" content="Ahmed Shabib Portfolio - Full Stack Developer" />
     <meta name="description" 
       content="Ahmed Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
     <meta name="author" content="Ahmed Shabib" />
@@ -22,20 +22,20 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Ahmed Shabib Portfolio - Software Engineer" />
+            <meta itemProp="name" content="Ahmed Shabib Portfolio - Full Stack Developer" />
             <meta itemProp="description"
                 content="Ahmed Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Ahmed Shabib Portfolio - Software Engineer" />
+            <meta name="twitter:title" content="Ahmed Shabib Portfolio - Full Stack Developer" />
             <meta name="twitter:description"
                 content="Ahemd Shabib's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="twitter:site" content="ahmedshabib" />
             <meta name="twitter:creator" content="ahmedshabib" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-                <meta name="og:title" content="Ahmed Shabib Portfolio - Software Engineer" />
+                <meta name="og:title" content="Ahmed Shabib Portfolio - Full Stack Developer" />
     <meta name="og:description" 
       content="Ahmed Shabib's (ahmedshabib) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
     <meta name="og:image" content="images/logos/logo_1200.png" />

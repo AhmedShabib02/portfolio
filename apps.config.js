@@ -5,7 +5,7 @@ import { displaySettings } from './components/apps/settings';
 import { displayChrome } from './components/apps/chrome';
 import { displayTrash } from './components/apps/trash';
 import { displayGedit } from './components/apps/gedit';
-import { displayAboutAhmed } from './components/apps/vivek';
+import { displayAboutAhmed } from './components/apps/about-ahmed';
 import { displayTerminalCalc } from './components/apps/calc';
 
 const apps = [
@@ -109,7 +109,7 @@ const apps = [
     //     favourite: false,
     //     desktop_shortcut: true,
     //     isExternalApp: true,
-    //     url: "https://www.vivek9patel.com/tars"
+    //     url: "https://www.ahmedshabib.com/tars"
     // },
 ]
 

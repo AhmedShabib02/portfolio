@@ -215,7 +215,7 @@ function About() {
         </div>
         <div className="font-normal ml-1">
           I'm a{" "}
-          <span className="text-pink-600 font-bold">Software Engineer - Front end!</span>
+          <span className="text-pink-600 font-bold">Full Stack Developer!</span>
         </div>
       </div>
       <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
@@ -224,7 +224,7 @@ function About() {
       </div>
       <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
         <li className=" list-pc">
-          I've <span className=" font-medium">3 years</span> of experience in software development. Currently working at{" "}
+          I've <span className=" font-medium">4 years</span> of experience in software development, working with React & React Native. Currently working at{" "}
           <u className=" cursor-pointer ">
             {" "}
             <a
@@ -234,12 +234,19 @@ function About() {
               Dubizzle Labs
             </a>{" "}
           </u>
-          , and now I'm looking for full-time frontend engineer roles! ( Hit me
+          , and now I'm looking for full-time full stack developer roles! ( Hit me
           up{" "}
           <a className="text-underline" href="mailto:ahmed.shabib@gmail.com">
             <u>@ahmedshabib829@gmail.com</u>
           </a>{" "}
           :) )
+        </li>
+        <li className=" mt-3 list-building">
+          {" "}
+          On the mobile side, I've built cross-platform apps with{" "}
+          <span className=" font-medium">React Native</span> &mdash; most notably
+          the{" "}
+          <span className=" font-medium">PropOne consumer app</span>.
         </li>
         <li className=" mt-3 list-building">
           {" "}
@@ -320,7 +327,7 @@ function Skills() {
             {" "}
             My areas of expertise are{" "}
             <strong className="text-ubt-gedit-orange">
-              front-end development, React.js, Next.js, Tailwind CSS, TypeScript, Javascript, Firebase, Git, Docker, Linux, and more!
+              full-stack development, React.js, React Native, Next.js, Node.js, Tailwind CSS, TypeScript, Javascript, Firebase, Git, Docker, Linux, and more!
             </strong>
           </div>
         </li>
@@ -353,6 +360,11 @@ function Skills() {
               className="m-1"
               src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff"
               alt="ahmed python"
+            />
+            <img
+              className="m-1"
+              src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"
+              alt="ahmed typescript"
             />
             <img
               className="m-1"
@@ -399,6 +411,11 @@ function Skills() {
               className=" m-1"
               src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff"
               alt="ahmed react"
+            />
+            <img
+              className=" m-1"
+              src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"
+              alt="ahmed react native"
             />
             <img
               className="m-1"
@@ -484,7 +501,7 @@ function Projects() {
     {
       name: "economist.com Unlocked",
       date: "Mar 2021",
-      link: "https://github.com/ahmedk9patel/economist.com-unlocked",
+      link: "https://github.com/ahmedshabib/economist.com-unlocked",
       description: [
         "A chrome extension to read Paid Articles for Free & with no Ads, no subscription, no memberships!",
       ],

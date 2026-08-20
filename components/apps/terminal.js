@@ -15,7 +15,7 @@ export class Terminal extends Component {
             root: ["books", "projects", "personal-documents", "skills", "languages", "PDPU", "interests"],
             PDPU: ["Sem-6"],
             books: ["Eric-Jorgenson_The-Almanack-of-Naval-Ravikant.pdf", "Elon Musk: How the Billionaire CEO of SpaceX.pdf", "The $100 Startup_CHRIS_GUILLEBEAU.pdf", "The_Magic_of_Thinking_Big.pdf"],
-            skills: ["Front-end development", "React.js", "jQuery", "Flutter", "Express.js", "SQL", "Firebase"],
+            skills: ["Full-stack development", "React.js", "React Native", "Node.js", "Express.js", "SQL", "Firebase", "Docker"],
             projects: ["ahmedshabib-personal-portfolio", "synonyms-list-react", "economist.com-unlocked", "Improve-Codeforces", "flutter-banking-app", "Meditech-Healthcare", "CPU-Scheduling-APP-React-Native"],
             interests: ["Software Engineering", "Deep Learning", "Computer Vision"],
             languages: ["Javascript", "C++", "Java", "Dart"],
@@ -239,7 +239,7 @@ export class Terminal extends Component {
                 break;
             case "pwd":
                 let str = this.current_directory;
-                result = str.replace("~", "/home/vivek")
+                result = str.replace("~", "/home/ahmedshabib")
                 break;
             case "code":
                 if (words[0] === "." || words.length === 0) {
